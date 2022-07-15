@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/GoltvyDen/Food-project-by-Udemy-#readme",
   "devDependencies": {
-    "json-server": "^0.17.0"
+    "json-server": "^0.17.0",
+    "webpack-cli": "^4.10.0"
   }
 }
